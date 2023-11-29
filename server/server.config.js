@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL ='https://worker-raspy.dsfasgagdss.workers.dev/'
+const BAREURL ='https://worker-raspy.dsfasgagdss.workers.dev'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
